@@ -13,3 +13,10 @@ pre { /* ``` ``` のコードブロック内部*/
   background-color: black;
   color: white;
 }
+
+/* .highlight クラスを使ったコードブロックのスタイル変更 */
+.highlight {
+  background-color: black;
+  color: white;
+  /* 他のスタイル（フォントサイズ、余白など）も追加できます */
+}
