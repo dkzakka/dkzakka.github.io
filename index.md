@@ -1,6 +1,12 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 
-# 
+### Marimekko KIOSKI × HELSINKI Playground Jokapoikaシャツ(トートバッグ付き )
+
+---
+
+胸ポケットにはHelsinki Playgroundのお花のロゴマーク。
+カラーは濃いめのオレンジ色とピンクです。
+オレンジ色にバックプリントが映えます。
 
 胸ポケットにはHelsinki Playgroundのお花のロゴマーク。
 
