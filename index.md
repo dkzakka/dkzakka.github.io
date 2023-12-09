@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 
-### Marimekko KIOSKI × HELSINKI Playground 
-### Jokapoikaシャツ (トートバッグ付き )
+## Marimekko KIOSKI × HELSINKI Playground 
+## Jokapoikaシャツ (トートバッグ付き )
 
 ![image](https://github.com/dkzakka/dkzakka.github.io/assets/68973947/1b80ab43-778a-4067-a02d-ac157b404464)
 
