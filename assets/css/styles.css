@@ -4,4 +4,6 @@ body {
   
   background-image: url("xv.png"); /* 画像パス指定 */
   background-repeat: repeat; /* 画像をタイリング */
+
+  text-align: center;　/* 文字を全てセンタリング */
 }
