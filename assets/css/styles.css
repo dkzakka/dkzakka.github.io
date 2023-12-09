@@ -10,24 +10,24 @@ body {
 
 
 pre { /* ``` ``` のコードブロック内部*/
-  background-color: black;
-  color: white;
+  background-color: red;
+  color: green;
 }
 
 /* .highlight クラスを使ったコードブロックのスタイル変更 */
 .highlight {
-  background-color: black;
-  color: white;
+  background-color: blue;
+  color: yellow;
   /* 他のスタイル（フォントサイズ、余白など）も追加できます */
 }
 
 /* より具体的なセレクタを使用 */
 pre.highlight {
   background-color: black !important;
-  color: white !important;
+  color: red !important;
 }
 
 /* コードブロック内の文字色を青に変更 */
 pre.highlight code {
-  color: blue !important;
+  color: white !important;
 }
