@@ -4,6 +4,15 @@
 
 ---
 
+Marimekko KIOSKIとHelsinki Playground がコラボレーションした
+25着限定のJokapoika（ヨカポイカ）シャツです。
+サイズは34（XS）
+こちらの商品にはオリジナルデザインのトートバッグが付きます。
+
+![image](https://github.com/dkzakka/dkzakka.github.io/assets/68973947/1b80ab43-778a-4067-a02d-ac157b404464)
+
+
+
 胸ポケットにはHelsinki Playgroundのお花のロゴマーク。
 カラーは濃いめのオレンジ色とピンクです。
 オレンジ色にバックプリントが映えます。
