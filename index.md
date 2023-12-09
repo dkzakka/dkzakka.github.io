@@ -3,6 +3,8 @@
 ### Marimekko KIOSKI × HELSINKI Playground 
 ### Jokapoikaシャツ (トートバッグ付き )
 
+![image](https://github.com/dkzakka/dkzakka.github.io/assets/68973947/1b80ab43-778a-4067-a02d-ac157b404464)
+
 Marimekko KIOSKIとHelsinki Playground がコラボレーションした
 
 25着限定のJokapoika（ヨカポイカ）シャツです。
@@ -11,7 +13,6 @@ Marimekko KIOSKIとHelsinki Playground がコラボレーションした
 
 こちらの商品にはオリジナルデザインのトートバッグが付きます。
 
-![image](https://github.com/dkzakka/dkzakka.github.io/assets/68973947/1b80ab43-778a-4067-a02d-ac157b404464)
 
 ![image](https://github.com/dkzakka/dkzakka.github.io/assets/68973947/a474955f-ae34-4a8c-b04a-34cb0a2531b3)
 
