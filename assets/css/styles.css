@@ -8,14 +8,7 @@ body {
   text-align: center;　/* 文字を全てセンタリング */
 }
 
-
-/* より具体的なセレクタを使用 */
-pre.highlight {
-  background-color: green;
-  color: blue;
-}
-
-/* コードブロック内の文字色を青に変更 */
+/* コードブロック内の文字色を黒に変更 */
 pre.highlight code {
   color: black;
 }
