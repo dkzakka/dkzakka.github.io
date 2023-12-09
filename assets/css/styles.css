@@ -7,3 +7,9 @@ body {
 
   text-align: center;　/* 文字を全てセンタリング */
 }
+
+
+pre { /* ``` ``` のコードブロック内部*/
+  background-color: black;
+  color: white;
+}
