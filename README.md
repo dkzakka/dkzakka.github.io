@@ -1,1 +1,2 @@
-https://dkzakka.blog.shinobi.jp/
+# note on public document
+* https://dkzakka.blog.shinobi.jp/
