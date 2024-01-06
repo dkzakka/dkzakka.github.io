@@ -1,0 +1,16 @@
+<div align="center">
+  
+2010-03-22(Mon)
+# 王立図書館のキーホルダー
+### デンマークの王立図書館、
+### ブラックダイヤモンドのキーホルダーです。
+![](http://blog.cnobi.jp/v1/blog/user/71e35865e9e62f3f9d70420d6124d2ab/1205019352)
+##### 王冠のマークを横から見ると
+##### Det Kongelige Bibliotekの 頭文字のKBになっています。
+![](http://blog.cnobi.jp/v1/blog/user/71e35865e9e62f3f9d70420d6124d2ab/1205019353)
+##### しかもこの部分はロッカー用のコイン代わりにもなるんです。  
+![](http://blog.cnobi.jp/v1/blog/user/71e35865e9e62f3f9d70420d6124d2ab/1205019354)
+##### 1200yen（送料込み）
+</div>
+
+[EDIT](https://github.com/jamad/practicePython/edit/master/dkzakka_web/entry508.md)
