@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 
-Marimekko
+Marimekko KIOSKI × HELSINKI Playground Jokapoikaシャツ(トートバッグ付き )
 
 Marimekko KIOSKIとHelsinki Playground がコラボレーションした
 
