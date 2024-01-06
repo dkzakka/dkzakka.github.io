@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 
-Marimekko KIOSKI × HELSINKI Playground Jokapoikaシャツ(トートバッグ付き )
-
 Marimekko KIOSKIとHelsinki Playground がコラボレーションした
 
 25着限定のJokapoika（ヨカポイカ）シャツです。
